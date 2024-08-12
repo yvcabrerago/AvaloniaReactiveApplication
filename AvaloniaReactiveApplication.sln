@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaReactiveApplication", "AvaloniaReactiveApplication\AvaloniaReactiveApplication.csproj", "{FAF3C133-E482-4531-9BEE-3F4DA4F7520A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaReactiveApplication.iOS", "AvaloniaReactiveApplication.iOS\AvaloniaReactiveApplication.iOS.csproj", "{0F50528E-FB3E-476F-822D-00F474453584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF3C133-E482-4531-9BEE-3F4DA4F7520A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF3C133-E482-4531-9BEE-3F4DA4F7520A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF3C133-E482-4531-9BEE-3F4DA4F7520A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF3C133-E482-4531-9BEE-3F4DA4F7520A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F50528E-FB3E-476F-822D-00F474453584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F50528E-FB3E-476F-822D-00F474453584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F50528E-FB3E-476F-822D-00F474453584}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0F50528E-FB3E-476F-822D-00F474453584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F50528E-FB3E-476F-822D-00F474453584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F50528E-FB3E-476F-822D-00F474453584}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
